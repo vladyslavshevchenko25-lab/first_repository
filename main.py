@@ -15,3 +15,8 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("Hello world")
+
+name = input()
+print(f"hello, {name}")
+
+print("Я створив репозиторій та запушив його")
